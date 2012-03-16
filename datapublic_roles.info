@@ -1,7 +1,7 @@
 name = "DataPublic Roles"
 description = "Provides default roles for DataPublic distro."
 core = "7.x"
-package = "Features"
+package = "DataPublic"
 dependencies[] = "features"
 features[user_role][] = "administrator"
 features[user_role][] = "editor"
